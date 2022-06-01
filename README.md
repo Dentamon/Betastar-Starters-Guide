@@ -8,6 +8,7 @@
 ### Rules for the chat
 #### When atom grinding is available, make sure you don't spam the chat.  Admins are almost always watching the chat for spammers and you may be muted or even banned from going on Betastar, so make sure you aren't spamming a lot (unless you're Xotic or an admin because they have all the power xD)...
 # Crate elements and rates
-## In this section, you will find all the elements that are in the crates and the drop rates for each of them.
-### Metallo Crate
-#### 
+### In this section, you will find all the elements that are in the crates and the drop rates for each of them.
+## Metallo Crate
+#### Boron - 15%
+#### Silicon 15%
