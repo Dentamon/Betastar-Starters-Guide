@@ -12,3 +12,7 @@
 ### Price: 20 atoms
 #### Lithium - 17.5%
 #### Calcium - 17.5%
+#### Magnesium - 15%
+#### Barium - 15%
+#### Sodium - 10%
+#### Beryllium - 8.5%
