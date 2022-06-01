@@ -7,5 +7,7 @@
 #### A feature that Betastar includes that Blooket does not is the chat.  In the chat, you can talk with people around the globe live.  One thing that is pretty cool about the chat is the sub feature that Xotic has made that gives you atoms if you chat.  Another thing about the chat is that you can start trading with people for recources, or just hang around and have fun.
 ### Rules for the chat
 #### When atom grinding is available, make sure you don't spam the chat.  Admins are almost always watching the chat for spammers and you may be muted or even banned from going on Betastar, so make sure you aren't spamming a lot (unless you're Xotic or an admin because they have all the power xD)...
-## Crate elements and rates
-### In this section, you will find all the elements that are in the crates and the drop rates for each of them.
+# Crate elements and rates
+## In this section, you will find all the elements that are in the crates and the drop rates for each of them.
+### Metallo Crate
+#### 
