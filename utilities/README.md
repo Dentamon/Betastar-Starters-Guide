@@ -1,5 +1,12 @@
 # Betastar Utilities
 ### Some Betastar utilities you can use to do some things
+# How to Use
+### Go into the script you want to use
+### Copy the code by highlighting the script and press `ctrl + c`
+### Go onto the [Betastar](https://betastar.org) site, and open the console by pressing `ctrl + shift + c` and clicking `console`
+### Paste the code by pressing `ctrl + v`
+### The script should work immediately after
+### If there are any problems, report an issue [here](https://github.com/Dentamon/Betastar-Starters-Guide/issues)
 # Appear Offline
 ### This script will make you appear offline even when you are still on the site.
 # Auto Decline Trade
