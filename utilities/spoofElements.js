@@ -1,3 +1,5 @@
+alert('Script coded by Zastix, Betastar tester\nFor more scripts, visit\nhttps://villainsrule2000.github.io/Betastar/')
+
 Array.from(document.getElementById('#elementList').children).forEach(a => a.remove())
 Object.entries(elementList).forEach((entry) => {
 	const [key, value] = entry;
