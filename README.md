@@ -1,3 +1,10 @@
+<div align="center">
+  <h2>This guide has been archived. To view a more updated version, use BetastarUtils!</h2>
+  <h1><a href="https://betastarutils.github.io/info/startguide">BetastarUtils</a></h1>
+</div>
+  
+
+
 # Betastar
 Betastar is a game created by only one person using PHP, [Xotic](https://github.com/XOTlC).
 ## About The Game
